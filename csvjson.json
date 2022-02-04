@@ -1,0 +1,20 @@
+[
+  {
+    "Qno": 1,
+    "Question": "What is the capital of India",
+    "Option1": "Chennai",
+    "Option2": "Bombay",
+    "Option3": "Calcutta",
+    "Option4": "Delhi",
+    "Answer": "Delhi"
+  },
+  {
+    "Qno": 2,
+    "Question": "How many states are in India",
+    "Option1": 25,
+    "Option2": 26,
+    "Option3": 27,
+    "Option4": 28,
+    "Answer": 28
+  }
+]
